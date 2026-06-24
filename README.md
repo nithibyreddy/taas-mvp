@@ -4,7 +4,7 @@ A film recommendation tool that captures aesthetic and cinematic sensibility thr
 
 ## Project Description
 
-Most film recommenders match on genre tags or collaborative filtering. For instance, some streaming services suggest content using logic like, *"people who watched X also watched Y,"*. This recommendation approach can work for genre, but can be limited in capturing what an individual user actually means when they say they love a film: the texture, the pacing, the emotional register, the visual sensibility or what a film feels like to them.
+Most film recommenders match on genre tags or collaborative filtering. For instance, some streaming services suggest content using logic like, *"people who watched X also watched Y"*. This recommendation approach can work for genre, but can be limited in capturing what an individual user actually means when they say they love a film: the texture, the pacing, the emotional register, the visual sensibility or what a film feels like to them.
 
 In TaaS, the user describes a few films they love and why. An LLM reads the user's prose, the films named and the language used to describe them, to infer the preferred aesthetic sensibility of the user. The model then returns four recommendations grounded in that sensibility, providing a reasoning that ties each film pick back to what was inferred.
 
