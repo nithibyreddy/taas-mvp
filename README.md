@@ -1,4 +1,4 @@
-# TaaS — Taste as a Service
+# TaaS (Taste as a Service)
 
 A film recommendation tool that captures aesthetic and cinematic sensibility through how someone talks about films they love, rather than relying on a user picking from a list of preset options.
 
